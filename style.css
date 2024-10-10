@@ -1,0 +1,37 @@
+a{
+    font-size: 20px;
+    font-family:"rubik" sans-serif;
+}
+
+body{
+    background-color: black;
+    font-family:"Rubik", sans-serif;
+}
+
+h1{
+    color: white;
+    font-family:"Rubik", sans-serif;
+}
+
+h2{
+    color: white;
+    font-family:"Rubik", sans-serif;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    font-family:"Rubik", sans-serif;
+}
+
+li{
+    color: white;
+}
+
+button{
+    background-color: gray;
+    height: 50px;
+    width: 100px; 
+    font-size: 20px; 
+    font-family:"Rubik", sans-serif;
+}
